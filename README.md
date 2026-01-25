@@ -1,4 +1,4 @@
-# chenjiayu-11.github.io
+# Jiayu Chen or Jayne 
 ## A student
 
 ### Education
