@@ -3,3 +3,6 @@
 
 ### Education
 Attending Capital University of Economics and Business and the University of Arizona
+
+### Hobby
+watching movies, traveling
