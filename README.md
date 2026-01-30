@@ -8,5 +8,5 @@ Coursework: Statistical Inference, Regression Analysis, Machine Learning
 ### Hobby
 watching movies, traveling
 
-## How to Reach Me
+### How to Reach Me
 **Email**:chenjiayu@arizona.edu
