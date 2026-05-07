@@ -7,7 +7,6 @@ Capital University of Economics and Business × University of Arizona
 📧 [chenjiayu@arizona.edu](mailto:chenjiayu@arizona.edu)  
 🌐 [jaynechen.github.io](https://chenjiayu-11.github.io)
 
----
 
 ## 🎓 About Me
 
@@ -19,7 +18,6 @@ I am a dual-degree undergraduate student pursuing a B.S. in Statistics and Data 
 - 🏆 Third-Class Scholarship for Academic Excellence (Dec 2024)
 - 🥉 Third Prize, Global Management Challenge (Jan 2024)
 
----
 
 ## 🛠️ Technical Skills
 
@@ -33,7 +31,6 @@ I am a dual-degree undergraduate student pursuing a B.S. in Statistics and Data 
 | **Visualization** | Matplotlib, Seaborn, Heatmaps, Business Analysis Matrix |
 | **Documentation** | LaTeX |
 
----
 
 ## 📂 Projects
 
@@ -49,7 +46,6 @@ I am a dual-degree undergraduate student pursuing a B.S. in Statistics and Data 
 
 **📁 [View Project Files →](./projects/multi-model-comparison)**
 
----
 
 ### 🔹 Academic Performance Revisited: Identifying Key Predictors of High Achievement
 *Oct 2025 – Dec 2025 | UW DATA 467 Course Project Leader*
@@ -64,7 +60,6 @@ I am a dual-degree undergraduate student pursuing a B.S. in Statistics and Data 
 
 **📁 [View Project Files →](./projects/academic-performance-predictors)**
 
----
 
 ### 🔹 Analyzing and Forecasting Amazon Product Sales Using R
 *Sep 2025 – Oct 2025 | UA DATA-375 Statistical Computing Project Leader*
@@ -79,7 +74,6 @@ I am a dual-degree undergraduate student pursuing a B.S. in Statistics and Data 
 
 **📁 [View Project Files →](./projects/amazon-sales-forecast)**
 
----
 
 ## 🏅 Leadership & Service
 
@@ -97,13 +91,11 @@ I am a dual-degree undergraduate student pursuing a B.S. in Statistics and Data 
 - Regularly convened branch general meetings and chaired recommendation meetings for outstanding members
 - Helped the branch receive the title of **"Five-Star Youth League Branch"**
 
----
 
 ## 📫 Let's Connect
 
 - 📧 Email: [chenjiayu@arizona.edu](mailto:chenjiayu@arizona.edu)
 - 💻 GitHub: [github.com/chenjiayu-11](https://github.com/chenjiayu-11)
 
----
 
 > *"Thanks for visiting! Feel free to explore my study and work and reach out for collaboration or opportunities."*
